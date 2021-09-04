@@ -83,3 +83,10 @@ export  $initHighlight;
 | Maxi   | Burgos   | 109383893 |
 | Andres | Duran    | 109581664 |
 | Diego  | Daza     | 109234434 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que se relaciona con la cita anterior:
+> Esto es otra cita.
