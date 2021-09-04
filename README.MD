@@ -101,3 +101,11 @@ Esto es otro texto divido por asteriscos.
 Esto es otro texto divido por guiones bajos.
 
 ___
+
+# Saltos de linea (con un enter)
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+- Lista
